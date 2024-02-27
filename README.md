@@ -7,7 +7,8 @@ I'm Vedant, a developer working on apps and more! WWDC 2022 & 2023 Swift Student
 - [3things](https://vedantapps.com/3things/)
 - [And More!](https://vedantapps.com/apps/)
 
-**WWDC Projects**
+**Swift Student Challenge Projects**
+- [MagiCode - WWDC 2024](https://github.com/vedantapps/MagiCode)
 - [SlideScramble - WWDC 2023](https://github.com/vedantapps/slidescramble)
 - [SaveWWDC - WWDC 2022](https://github.com/vedantapps/SaveWWDC)
 
