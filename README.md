@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Vedant, a developer working on apps and more! WWDC 2022 & 2023 Swift Student Challenge Winner.
+I'm Vedant, a developer working on apps and more! WWDC 2022, 2023, and 2024 Distinguished Swift Student Challenge Winner.
 
 **Projects I'm working on:**
 - [LockPod](https://vedantapps.com/lockpod/)
